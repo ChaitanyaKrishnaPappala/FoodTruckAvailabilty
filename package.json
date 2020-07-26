@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "show-open-food-trucks": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment-timezone": "^0.5.31",
+    "request": "^2.88.2"
+  }
+}
